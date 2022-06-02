@@ -6,7 +6,7 @@
 - 可以自定义批量创建文件夹
 - 支持导出/导出 .txt 配置文件
 
-下载链接：[Download Unitypackage](https://github.com/MingMingZiX/UnityCreateFoldersInBulk/releases/download/0.9/CreaterFolder.unitypackage)
+下载链接：[Download Unitypackage](https://github.com/MingMingZiX/UnityCreateFoldersInBulk/releases/download/V0.9/CreaterFolder.unitypackage)
 
 # 扩展编辑器界面
 ![image](dis_image/interface.png)
